@@ -1,0 +1,27 @@
+.heading{
+    font-size:30px ;
+    color: aqua;
+}
+
+.head_1{
+    font-size: 15px;
+    color: aquamarine;
+}
+.head_2{
+    font-size: 20px;
+}
+.copy_right_footer_index{
+    
+    bottom: 20px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    color: whitesmoke;
+    background-color: rgb(43, 43, 43);
+}
+canvas{
+    border:10px ridge red;
+    border-radius: 5px;
+
+    
+}
